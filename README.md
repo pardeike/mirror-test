@@ -1,2 +1,2 @@
 # mirror-test
-Some description
+Dummy repository
